@@ -1,0 +1,29 @@
+body {
+    background-color: #BDBDBD;
+}
+.header {
+	margin-top: 0px;
+	background-color:#fff;
+	height: 40px;
+
+	padding-top: 10px;
+
+	text-align: center;
+} 
+
+.content {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #abc;
+    height: 100%;
+}
+
+.main{
+	background-color: #afc;
+	height: 100%
+}
+
+.right{
+	background-color: #bcc;
+	height: 100%;
+}	
